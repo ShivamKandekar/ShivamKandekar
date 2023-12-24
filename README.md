@@ -1,3 +1,4 @@
+![logo](https://github.com/ShivamKandekar/ShivamKandekar/blob/main/s1.png)
 <h1 align="center">Hi 👋, I'm Shivam Sharad Kandekar</h1>
 <h3 align="center">A passionate Software Engineer developer from India</h3>
 
