@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivamkandekar&label=Profile%20views&color=0e75b6&style=flat" alt="shivamkandekar" /> </p>
 
-- 🌱 I have recently completed**Amazon Web Services(AWS) Intership.**
+- 🌱 I have recently completed **Amazon Web Services(AWS) Intership.**
 
 - 📫 How to reach me **kandekarshivam2001@gmail.com**
 
