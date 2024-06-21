@@ -1,6 +1,6 @@
-![logo](https://github.com/ShivamKandekar/ShivamKandekar/blob/main/s1.png)
+
 <h1 align="center">Hi 👋, I'm Shivam Kandekar</h1>
-<h3 align="center">A passionate Software Engineer developer from India</h3>
+<h3 align="center">A passionate Software Engineer  from India</h3>
 
 <img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e4784v9wn32ezeqi5n9xyq7dozx0tp49ebenw16jp18&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
